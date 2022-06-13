@@ -1,2 +1,2 @@
 # gh-actions
-Testing GitHub actions with experiments
+Testing GitHub actions with merging a PR
